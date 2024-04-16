@@ -1,7 +1,7 @@
 const course = [
   {
     title: "Best Full-Stack Development Project Ideas in 2024",
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+    img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
     category: "Full Stack development",
   },
   {
@@ -16,7 +16,7 @@ const course = [
   },
   {
     title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
-    img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+    img: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
     category: "Cyber Security"
   },
   {
@@ -26,12 +26,12 @@ const course = [
   },
   {
     title: "How to become a Data Scientist after Mechanical Engineering?",
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-1536x1024.jpg",
+    img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
     category: "Data Science",
   },
   {
     title: "Web Development",
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+    img: "https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp",
     category: "Career",
   },
 ];
