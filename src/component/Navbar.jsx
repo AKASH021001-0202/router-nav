@@ -7,20 +7,20 @@ const Navbar = () => {
         <div className="nav-bar-menu">
         <div className="container">
       <div className="row">
-        <nav className="nav nav-pills nav-justified">
-          <NavLink className="nav-link" activeClassName="active" exact to="/">
+        <nav className="nav nav-pills ">
+          <NavLink className="nav-link" activeClassName="active1" exact to="/">
             All
           </NavLink>
-          <NavLink className="nav-link" activeClassName="active" to="/full-stack-development">
+          <NavLink className="nav-link" activeClassName="active1" to="/full-stack-development">
             Full stack development
           </NavLink>
-          <NavLink className="nav-link" activeClassName="active" to="/data-science">
+          <NavLink className="nav-link" activeClassName="active1" to="/data-science">
             Data science
           </NavLink>
-          <NavLink className="nav-link" activeClassName="active" to="/cyber-security">
+          <NavLink className="nav-link" activeClassName="active1" to="/cyber-security">
             Cyber Security
           </NavLink>
-          <NavLink className="nav-link" activeClassName="active" to="/career">
+          <NavLink className="nav-link" activeClassName="active1" to="/career">
             Career
           </NavLink>
         </nav>
